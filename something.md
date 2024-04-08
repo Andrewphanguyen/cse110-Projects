@@ -1,6 +1,6 @@
 #	** Andrew Nguyen**
 
-## >I like hiking and 
+## > I like hiking and 
 
 ### I am a undergraduate Computer Science major
 
