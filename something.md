@@ -1,5 +1,5 @@
 #	 Andrew Nguyen
-** cheese **
+**cheese**
  > I like hiking and 
 
 ### I am a undergraduate Computer Science major
